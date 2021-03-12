@@ -1,0 +1,31 @@
+/*estilo de Mi portafolio. Derechos reservados a Los chinaskis */
+/*https://www.w3schools.com/howto/howto_css_blog_layout.asp*/
+body {
+	background-color: #7cb4ec12;
+	height: 100%;
+	max-width: 1000px; 
+	margin:auto;
+}
+
+h1 {
+	display: inline;
+	margin-top:10px;
+}
+
+nav {
+	display: block; 	/*starts on new line and takes up whole width*/	
+    margin: 20px;
+}
+
+.botones {
+	display: block;
+	width: 100px;
+	float: right;
+
+}
+
+
+img {
+	width: auto;
+	height: 400px;
+}
